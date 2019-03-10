@@ -8,3 +8,7 @@
 *.iml
 MANIFEST
 .DS_Store
+dist
+*-info
+build
+
